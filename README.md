@@ -1,27 +1,87 @@
-# Olive Landing Page Replica
+This project is a **high-fidelity, pixel-perfect frontend replication** of the Olive App landing page, developed as part of a technical assessment. The focus was on accurately translating a visual design into a responsive, production-ready user interface with attention to detail, layout precision, and user experience.
 
-This project is a high-fidelity, pixel-perfect frontend replica of the Olive App landing page. It was built as a technical assessment focusing on precise visual translation from design mockups into production-ready code.
+---
 
-## Tech Stack
-- **Framework**: Next.js 14 (App Router)
-- **Styling**: Vanilla CSS (CSS Modules approach)
-- **Typography**: Inter (Google Fonts)
+##  Live Demo
 
-## Features
-- **Responsive Design**: Fully adapted for both desktop and mobile viewing with seamless media queries.
-- **Premium Motion Design**: Advanced CSS keyframe animations, staggered entrance flows, and highly reactive hover states.
-- **Hardware-Accurate Mockup**: The hero phone mockup is built entirely via CSS (no static image frames) using deeply layered outset shadows, an accurate dynamic island, and simulated frosted-glass background cards.
+https://olive-landing-page-tau.vercel.app/
 
-## Running Locally
+## GitHub Repository
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
+https://github.com/thekarannagpal/olive-landing-page
 
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
+---
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+##  Tech Stack
+
+* **Framework:** Next.js 14 (App Router)
+* **Styling:** Vanilla CSS (CSS Modules approach)
+* **Typography:** Inter (Google Fonts)
+
+---
+
+##  Key Features
+
+###  Pixel-Perfect UI
+
+* Carefully matched layout, spacing, colors, and typography based on the reference design
+* Accurate component structure and visual hierarchy
+
+###  Fully Responsive Design
+
+* Optimized for desktop, tablet, and mobile screens
+* Smooth adaptability using media queries
+
+###  Advanced Motion & Interactions
+
+* CSS keyframe animations for smooth entrance transitions
+* Staggered animation flow for enhanced visual experience
+* Interactive hover states for buttons and navigation elements
+
+###  Hardware-Accurate Phone Mockup
+
+* Built entirely using CSS (no static images)
+* Includes:
+
+  * Realistic device frame
+  * Dynamic island implementation
+  * Layered shadows for depth
+  * Frosted-glass background effects
+
+---
+
+##  Getting Started
+
+### 1. Install Dependencies
+
+```bash
+npm install
+```
+
+### 2. Run Development Server
+
+```bash
+npm run dev
+```
+
+### 3. Open in Browser
+
+Visit: http://localhost:3000
+
+---
+
+##  Notes
+
+* This project was built solely for **frontend evaluation purposes**
+* The original design inspiration is from Olive App (used only as a reference)
+* Focus areas included **UI accuracy, responsiveness, and interaction quality**
+
+---
+
+##  Objective
+
+To demonstrate the ability to:
+
+* Convert a visual design into a functional frontend
+* Maintain pixel accuracy and consistency
+* Implement responsive layouts and modern UI interactions
